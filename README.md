@@ -1,5 +1,4 @@
-# exam   
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="70" height="70" />
+# exam   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="50" height="50" />
 # Description:
 З цим проектом ви зможете легко додати будь-які два числа, суму яких вам потрібно дізнатись.
 # About the project:

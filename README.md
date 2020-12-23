@@ -1,4 +1,4 @@
-# exam   <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" width="70" height="60" />
+# exam   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="70" height="70" />
 # Description:
 З цим проектом ви зможете легко додати будь-які два числа, котрі зможете надумати.
 # About the project:

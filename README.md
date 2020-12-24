@@ -6,4 +6,4 @@
 <p align="center">  <img src="https://i.imgur.com/eBz52Hm.gif" width="350" height="140" /> </p>
  
  # All in all..
-Thanks for wathcing, see u soon!
+Thanks for watching, see u soon!
